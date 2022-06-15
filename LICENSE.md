@@ -1,6 +1,6 @@
 # Biblical Linguistic Data
 
-[Biblical Linguistic Data](https://github.com/cherithanalytics/Biblical-Linguistic-Data/) © 2022 by [Cherith Analytics](https://cherith.io/) is licensed under [CC BY 4.0 ](http://creativecommons.org/licenses/by/4.0/).
+[Biblical Linguistic Data](https://github.com/cherithanalytics/Biblical-Linguistic-Data/) © 2022 by [Cherith Analytics](https://cherith.io/) is licensed under [Creative Commons Attribution 4.0 International License ("CC BY 4.0")](https://creativecommons.org/licenses/by/4.0/). 
 
 In addition to datasets from Cherith Analytics, Biblical Linguistic Data contains data from the following datasets:
 
