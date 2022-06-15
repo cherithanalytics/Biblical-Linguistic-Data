@@ -2,4 +2,4 @@
 The repository contains linguistic data related to Biblical texts.
 
 Currently Contains:
-- Glosses for the Westminister Leningrad Codex (WLC) Hebrew Old Testament, by Andi Wu
+- wlc-gloss.tsv : English and Chinese Glosses for the Westminister Leningrad Codex (WLC) Hebrew Old Testament, by Andi Wu
