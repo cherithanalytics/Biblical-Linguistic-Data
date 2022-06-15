@@ -1,6 +1,6 @@
 # Biblical Linguistic Data
 
-[Biblical Linguistic Data](http://github.com/cherithanalytics/Biblical-Linguistic-Data/) © 2022 by [Cherith Analytics](https://cherith.io/) is licensed under [CC BY 4.0 ](http://creativecommons.org/licenses/by/4.0/).
+[Biblical Linguistic Data](https://github.com/cherithanalytics/Biblical-Linguistic-Data/) © 2022 by [Cherith Analytics](https://cherith.io/) is licensed under [CC BY 4.0 ](http://creativecommons.org/licenses/by/4.0/).
 
 In addition to datasets from Cherith Analytics, Biblical Linguistic Data contains data from the following datasets:
 
@@ -22,7 +22,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 ### Under the following terms:
 
- * **Attribution** — You must attribute the work as follows: "MACULA Hebrew Linguistic Datasets, available at https://github.com/Clear-Bible/macula-hebrew/". You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+ * **Attribution** — You must attribute the work as follows: "Cherith Analytics Biblical Linguistic Data, available at https://github.com/cherithanalytics/Biblical-Linguistic-Data/. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
 **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
