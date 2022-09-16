@@ -1,7 +1,11 @@
 # Biblical-Linguistic-Data
-The repository contains linguistic data related to Biblical texts.
 
-This repository contains:
+![cherithLogoBlue-100x100](https://user-images.githubusercontent.com/105679741/190519269-28c4bc1c-fb8f-4c8f-b119-8aa8188c98d6.png)
+**CherithAnalytics Biblical Linguistic Data**
+
+**Copyright © 2022 by Cherith Analytics**
+
+The repository contains linguistic data related to Biblical texts:
 
 **wlc-gloss.tsv** : English and Chinese Glosses for the Westminister Leningrad Codex (WLC) Hebrew Old Testament, by Andi Wu
 
