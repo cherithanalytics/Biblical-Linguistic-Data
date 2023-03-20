@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<vernacularParms>
+  <scriptureBook ubsAbbreviation="GEN" parm="vernacularFullName">GENESIS</scriptureBook>
+  <scriptureBook ubsAbbreviation="EXO" parm="vernacularFullName">EXODUS</scriptureBook>
+  <scriptureBook ubsAbbreviation="LEV" parm="vernacularFullName">LEVITICUS</scriptureBook>
+  <scriptureBook ubsAbbreviation="NUM" parm="vernacularFullName">NUMBERS</scriptureBook>
+  <scriptureBook ubsAbbreviation="DEU" parm="vernacularFullName">DEUTERONOMY</scriptureBook>
+  <scriptureBook ubsAbbreviation="JOS" parm="vernacularFullName">JOSHUA</scriptureBook>
+  <scriptureBook ubsAbbreviation="JDG" parm="vernacularFullName">JUDGES</scriptureBook>
+  <scriptureBook ubsAbbreviation="RUT" parm="vernacularFullName">RUTH</scriptureBook>
+  <scriptureBook ubsAbbreviation="1SA" parm="vernacularFullName">KINGS I</scriptureBook>
+  <scriptureBook ubsAbbreviation="2SA" parm="vernacularFullName">KINGS II</scriptureBook>
+  <scriptureBook ubsAbbreviation="1KI" parm="vernacularFullName">KINGS III</scriptureBook>
+  <scriptureBook ubsAbbreviation="2KI" parm="vernacularFullName">KINGS IV</scriptureBook>
+  <scriptureBook ubsAbbreviation="1CH" parm="vernacularFullName">CHRONICLES I</scriptureBook>
+  <scriptureBook ubsAbbreviation="2CH" parm="vernacularFullName">CHRONICLES II</scriptureBook>
+  <scriptureBook ubsAbbreviation="EZR" parm="vernacularFullName">EZRA</scriptureBook>
+  <scriptureBook ubsAbbreviation="NEH" parm="vernacularFullName">NEHEMIAH</scriptureBook>
+  <scriptureBook ubsAbbreviation="EST" parm="vernacularFullName">ESTHER</scriptureBook>
+  <scriptureBook ubsAbbreviation="JOB" parm="vernacularFullName">JOB</scriptureBook>
+  <scriptureBook ubsAbbreviation="PSA" parm="vernacularFullName">PSALMS</scriptureBook>
+  <scriptureBook ubsAbbreviation="PRO" parm="vernacularFullName">PROVERBS</scriptureBook>
+  <scriptureBook ubsAbbreviation="ECC" parm="vernacularFullName">ECCLESIASTES</scriptureBook>
+  <scriptureBook ubsAbbreviation="SNG" parm="vernacularFullName">SONG OF SONGS</scriptureBook>
+  <scriptureBook ubsAbbreviation="ISA" parm="vernacularFullName">ESIAS</scriptureBook>
+  <scriptureBook ubsAbbreviation="JER" parm="vernacularFullName">JEREMIAS</scriptureBook>
+  <scriptureBook ubsAbbreviation="LAM" parm="vernacularFullName">LAMENTATIONS</scriptureBook>
+  <scriptureBook ubsAbbreviation="EZK" parm="vernacularFullName">JEZEKIEL</scriptureBook>
+  <scriptureBook ubsAbbreviation="DAN" parm="vernacularFullName">DANIEL</scriptureBook>
+  <scriptureBook ubsAbbreviation="HOS" parm="vernacularFullName">OSEE</scriptureBook>
+  <scriptureBook ubsAbbreviation="JOL" parm="vernacularFullName">JOEL</scriptureBook>
+  <scriptureBook ubsAbbreviation="AMO" parm="vernacularFullName">AMOS</scriptureBook>
+  <scriptureBook ubsAbbreviation="OBA" parm="vernacularFullName">OBDIAS</scriptureBook>
+  <scriptureBook ubsAbbreviation="JON" parm="vernacularFullName">JONAS</scriptureBook>
+  <scriptureBook ubsAbbreviation="MIC" parm="vernacularFullName">MICHAEAS</scriptureBook>
+  <scriptureBook ubsAbbreviation="NAM" parm="vernacularFullName">NAUM</scriptureBook>
+  <scriptureBook ubsAbbreviation="HAB" parm="vernacularFullName">AMBACUM</scriptureBook>
+  <scriptureBook ubsAbbreviation="ZEP" parm="vernacularFullName">SOPHONIAS</scriptureBook>
+  <scriptureBook ubsAbbreviation="HAG" parm="vernacularFullName">AGGAEUS</scriptureBook>
+  <scriptureBook ubsAbbreviation="ZEC" parm="vernacularFullName">ZACHARIAS</scriptureBook>
+  <scriptureBook ubsAbbreviation="MAL" parm="vernacularFullName">MALACHIAS</scriptureBook>
+  <scriptureBook ubsAbbreviation="TOB" parm="vernacularFullName">TOBIT</scriptureBook>
+  <scriptureBook ubsAbbreviation="JDT" parm="vernacularFullName">JUDITH</scriptureBook>
+  <scriptureBook ubsAbbreviation="WIS" parm="vernacularFullName">WISDOM</scriptureBook>
+  <scriptureBook ubsAbbreviation="SIR" parm="vernacularFullName">SIRACH</scriptureBook>
+  <scriptureBook ubsAbbreviation="BAR" parm="vernacularFullName">BARUCH</scriptureBook>
+  <scriptureBook ubsAbbreviation="LJE" parm="vernacularFullName">EPISTLE OF JEREMY</scriptureBook>
+  <scriptureBook ubsAbbreviation="S3Y" parm="vernacularFullName">PRAYER OF AZARIAS</scriptureBook>
+  <scriptureBook ubsAbbreviation="SUS" parm="vernacularFullName">SUSANNA</scriptureBook>
+  <scriptureBook ubsAbbreviation="BEL" parm="vernacularFullName">BEL AND THE DRAGON</scriptureBook>
+  <scriptureBook ubsAbbreviation="1MA" parm="vernacularFullName">I MACCABEES</scriptureBook>
+  <scriptureBook ubsAbbreviation="2MA" parm="vernacularFullName">II MACCABEES</scriptureBook>
+  <scriptureBook ubsAbbreviation="1ES" parm="vernacularFullName">I ESDRAS</scriptureBook>
+  <scriptureBook ubsAbbreviation="MAN" parm="vernacularFullName">PRAYER OF MANASSES</scriptureBook>
+  <scriptureBook ubsAbbreviation="3MA" parm="vernacularFullName">III MACCABEES</scriptureBook>
+  <scriptureBook ubsAbbreviation="4MA" parm="vernacularFullName">IV MACCABEES</scriptureBook>
+  <scriptureBook ubsAbbreviation="GEN" parm="vernacularAbbreviatedName">Genesis</scriptureBook>
+  <scriptureBook ubsAbbreviation="EXO" parm="vernacularAbbreviatedName">Exodus</scriptureBook>
+  <scriptureBook ubsAbbreviation="LEV" parm="vernacularAbbreviatedName">Leviticus</scriptureBook>
+  <scriptureBook ubsAbbreviation="NUM" parm="vernacularAbbreviatedName">Numbers</scriptureBook>
+  <scriptureBook ubsAbbreviation="DEU" parm="vernacularAbbreviatedName">Deuteronomy</scriptureBook>
+  <scriptureBook ubsAbbreviation="JOS" parm="vernacularAbbreviatedName">Joshua</scriptureBook>
+  <scriptureBook ubsAbbreviation="JDG" parm="vernacularAbbreviatedName">Judges</scriptureBook>
+  <scriptureBook ubsAbbreviation="RUT" parm="vernacularAbbreviatedName">Ruth</scriptureBook>
+  <scriptureBook ubsAbbreviation="1SA" parm="vernacularAbbreviatedName">Kings I</scriptureBook>
+  <scriptureBook ubsAbbreviation="2SA" parm="vernacularAbbreviatedName">Kings II</scriptureBook>
+  <scriptureBook ubsAbbreviation="1KI" parm="vernacularAbbreviatedName">Kings III</scriptureBook>
+  <scriptureBook ubsAbbreviation="2KI" parm="vernacularAbbreviatedName">Kings IV</scriptureBook>
+  <scriptureBook ubsAbbreviation="1CH" parm="vernacularAbbreviatedName">Chronicles I</scriptureBook>
+  <scriptureBook ubsAbbreviation="2CH" parm="vernacularAbbreviatedName">Chronicles II</scriptureBook>
+  <scriptureBook ubsAbbreviation="EZR" parm="vernacularAbbreviatedName">Ezra</scriptureBook>
+  <scriptureBook ubsAbbreviation="NEH" parm="vernacularAbbreviatedName">Nehemiah</scriptureBook>
+  <scriptureBook ubsAbbreviation="EST" parm="vernacularAbbreviatedName">Esther</scriptureBook>
+  <scriptureBook ubsAbbreviation="JOB" parm="vernacularAbbreviatedName">Job</scriptureBook>
+  <scriptureBook ubsAbbreviation="PSA" parm="vernacularAbbreviatedName">Psalms</scriptureBook>
+  <scriptureBook ubsAbbreviation="PRO" parm="vernacularAbbreviatedName">Proverbs</scriptureBook>
+  <scriptureBook ubsAbbreviation="ECC" parm="vernacularAbbreviatedName">Ecclesiastes</scriptureBook>
+  <scriptureBook ubsAbbreviation="SNG" parm="vernacularAbbreviatedName">Song of Songs</scriptureBook>
+  <scriptureBook ubsAbbreviation="ISA" parm="vernacularAbbreviatedName">Esias</scriptureBook>
+  <scriptureBook ubsAbbreviation="JER" parm="vernacularAbbreviatedName">Jeremias</scriptureBook>
+  <scriptureBook ubsAbbreviation="LAM" parm="vernacularAbbreviatedName">Lamentations</scriptureBook>
+  <scriptureBook ubsAbbreviation="EZK" parm="vernacularAbbreviatedName">Jezekiel</scriptureBook>
+  <scriptureBook ubsAbbreviation="DAN" parm="vernacularAbbreviatedName">Daniel</scriptureBook>
+  <scriptureBook ubsAbbreviation="HOS" parm="vernacularAbbreviatedName">Osee</scriptureBook>
+  <scriptureBook ubsAbbreviation="JOL" parm="vernacularAbbreviatedName">Joel</scriptureBook>
+  <scriptureBook ubsAbbreviation="AMO" parm="vernacularAbbreviatedName">Amos</scriptureBook>
+  <scriptureBook ubsAbbreviation="OBA" parm="vernacularAbbreviatedName">Obdias</scriptureBook>
+  <scriptureBook ubsAbbreviation="JON" parm="vernacularAbbreviatedName">Jonas</scriptureBook>
+  <scriptureBook ubsAbbreviation="MIC" parm="vernacularAbbreviatedName">Michaeas</scriptureBook>
+  <scriptureBook ubsAbbreviation="NAM" parm="vernacularAbbreviatedName">Naum</scriptureBook>
+  <scriptureBook ubsAbbreviation="HAB" parm="vernacularAbbreviatedName">Ambacum</scriptureBook>
+  <scriptureBook ubsAbbreviation="ZEP" parm="vernacularAbbreviatedName">Sophonias</scriptureBook>
+  <scriptureBook ubsAbbreviation="HAG" parm="vernacularAbbreviatedName">Aggaeus</scriptureBook>
+  <scriptureBook ubsAbbreviation="ZEC" parm="vernacularAbbreviatedName">Zacharias</scriptureBook>
+  <scriptureBook ubsAbbreviation="MAL" parm="vernacularAbbreviatedName">Malachias</scriptureBook>
+  <scriptureBook ubsAbbreviation="TOB" parm="vernacularAbbreviatedName">Tobit</scriptureBook>
+  <scriptureBook ubsAbbreviation="JDT" parm="vernacularAbbreviatedName">Judith</scriptureBook>
+  <scriptureBook ubsAbbreviation="WIS" parm="vernacularAbbreviatedName">Wisdom</scriptureBook>
+  <scriptureBook ubsAbbreviation="SIR" parm="vernacularAbbreviatedName">Sirach</scriptureBook>
+  <scriptureBook ubsAbbreviation="BAR" parm="vernacularAbbreviatedName">Baruch</scriptureBook>
+  <scriptureBook ubsAbbreviation="LJE" parm="vernacularAbbreviatedName">Epistle of Jeremy</scriptureBook>
+  <scriptureBook ubsAbbreviation="S3Y" parm="vernacularAbbreviatedName">Prayer of Azarias</scriptureBook>
+  <scriptureBook ubsAbbreviation="SUS" parm="vernacularAbbreviatedName">Susanna</scriptureBook>
+  <scriptureBook ubsAbbreviation="BEL" parm="vernacularAbbreviatedName">Bel and the Dragon</scriptureBook>
+  <scriptureBook ubsAbbreviation="1MA" parm="vernacularAbbreviatedName">1 Maccabees</scriptureBook>
+  <scriptureBook ubsAbbreviation="2MA" parm="vernacularAbbreviatedName">2 Maccabees</scriptureBook>
+  <scriptureBook ubsAbbreviation="1ES" parm="vernacularAbbreviatedName">I Esdras</scriptureBook>
+  <scriptureBook ubsAbbreviation="MAN" parm="vernacularAbbreviatedName">Prayer of Manasses</scriptureBook>
+  <scriptureBook ubsAbbreviation="3MA" parm="vernacularAbbreviatedName">3 Maccabees</scriptureBook>
+  <scriptureBook ubsAbbreviation="4MA" parm="vernacularAbbreviatedName">4 Maccabees</scriptureBook>
+  <scriptureBook ubsAbbreviation="GEN" parm="vernacularBookAbbreviation">GEN</scriptureBook>
+  <scriptureBook ubsAbbreviation="EXO" parm="vernacularBookAbbreviation">EXO</scriptureBook>
+  <scriptureBook ubsAbbreviation="LEV" parm="vernacularBookAbbreviation">LEV</scriptureBook>
+  <scriptureBook ubsAbbreviation="NUM" parm="vernacularBookAbbreviation">NUM</scriptureBook>
+  <scriptureBook ubsAbbreviation="DEU" parm="vernacularBookAbbreviation">DEU</scriptureBook>
+  <scriptureBook ubsAbbreviation="JOS" parm="vernacularBookAbbreviation">JOS</scriptureBook>
+  <scriptureBook ubsAbbreviation="JDG" parm="vernacularBookAbbreviation">JDG</scriptureBook>
+  <scriptureBook ubsAbbreviation="RUT" parm="vernacularBookAbbreviation">RUT</scriptureBook>
+  <scriptureBook ubsAbbreviation="1SA" parm="vernacularBookAbbreviation">1SA</scriptureBook>
+  <scriptureBook ubsAbbreviation="2SA" parm="vernacularBookAbbreviation">2SA</scriptureBook>
+  <scriptureBook ubsAbbreviation="1KI" parm="vernacularBookAbbreviation">1KI</scriptureBook>
+  <scriptureBook ubsAbbreviation="2KI" parm="vernacularBookAbbreviation">2KI</scriptureBook>
+  <scriptureBook ubsAbbreviation="1CH" parm="vernacularBookAbbreviation">1CH</scriptureBook>
+  <scriptureBook ubsAbbreviation="2CH" parm="vernacularBookAbbreviation">2CH</scriptureBook>
+  <scriptureBook ubsAbbreviation="EZR" parm="vernacularBookAbbreviation">EZR</scriptureBook>
+  <scriptureBook ubsAbbreviation="NEH" parm="vernacularBookAbbreviation">NEH</scriptureBook>
+  <scriptureBook ubsAbbreviation="EST" parm="vernacularBookAbbreviation">EST</scriptureBook>
+  <scriptureBook ubsAbbreviation="JOB" parm="vernacularBookAbbreviation">JOB</scriptureBook>
+  <scriptureBook ubsAbbreviation="PSA" parm="vernacularBookAbbreviation">PSA</scriptureBook>
+  <scriptureBook ubsAbbreviation="PRO" parm="vernacularBookAbbreviation">PRO</scriptureBook>
+  <scriptureBook ubsAbbreviation="ECC" parm="vernacularBookAbbreviation">ECC</scriptureBook>
+  <scriptureBook ubsAbbreviation="SNG" parm="vernacularBookAbbreviation">SNG</scriptureBook>
+  <scriptureBook ubsAbbreviation="ISA" parm="vernacularBookAbbreviation">ISA</scriptureBook>
+  <scriptureBook ubsAbbreviation="JER" parm="vernacularBookAbbreviation">JER</scriptureBook>
+  <scriptureBook ubsAbbreviation="LAM" parm="vernacularBookAbbreviation">LAM</scriptureBook>
+  <scriptureBook ubsAbbreviation="EZK" parm="vernacularBookAbbreviation">EZK</scriptureBook>
+  <scriptureBook ubsAbbreviation="DAN" parm="vernacularBookAbbreviation">DAN</scriptureBook>
+  <scriptureBook ubsAbbreviation="HOS" parm="vernacularBookAbbreviation">HOS</scriptureBook>
+  <scriptureBook ubsAbbreviation="JOL" parm="vernacularBookAbbreviation">JOL</scriptureBook>
+  <scriptureBook ubsAbbreviation="AMO" parm="vernacularBookAbbreviation">AMO</scriptureBook>
+  <scriptureBook ubsAbbreviation="OBA" parm="vernacularBookAbbreviation">OBA</scriptureBook>
+  <scriptureBook ubsAbbreviation="JON" parm="vernacularBookAbbreviation">JON</scriptureBook>
+  <scriptureBook ubsAbbreviation="MIC" parm="vernacularBookAbbreviation">MIC</scriptureBook>
+  <scriptureBook ubsAbbreviation="NAM" parm="vernacularBookAbbreviation">NAM</scriptureBook>
+  <scriptureBook ubsAbbreviation="HAB" parm="vernacularBookAbbreviation">HAB</scriptureBook>
+  <scriptureBook ubsAbbreviation="ZEP" parm="vernacularBookAbbreviation">ZEP</scriptureBook>
+  <scriptureBook ubsAbbreviation="HAG" parm="vernacularBookAbbreviation">HAG</scriptureBook>
+  <scriptureBook ubsAbbreviation="ZEC" parm="vernacularBookAbbreviation">ZEC</scriptureBook>
+  <scriptureBook ubsAbbreviation="MAL" parm="vernacularBookAbbreviation">MAL</scriptureBook>
+  <scriptureBook ubsAbbreviation="TOB" parm="vernacularBookAbbreviation">TOB</scriptureBook>
+  <scriptureBook ubsAbbreviation="JDT" parm="vernacularBookAbbreviation">JDT</scriptureBook>
+  <scriptureBook ubsAbbreviation="WIS" parm="vernacularBookAbbreviation">WIS</scriptureBook>
+  <scriptureBook ubsAbbreviation="SIR" parm="vernacularBookAbbreviation">SIR</scriptureBook>
+  <scriptureBook ubsAbbreviation="BAR" parm="vernacularBookAbbreviation">BAR</scriptureBook>
+  <scriptureBook ubsAbbreviation="LJE" parm="vernacularBookAbbreviation">LJE</scriptureBook>
+  <scriptureBook ubsAbbreviation="S3Y" parm="vernacularBookAbbreviation">S3Y</scriptureBook>
+  <scriptureBook ubsAbbreviation="SUS" parm="vernacularBookAbbreviation">SUS</scriptureBook>
+  <scriptureBook ubsAbbreviation="BEL" parm="vernacularBookAbbreviation">BEL</scriptureBook>
+  <scriptureBook ubsAbbreviation="1MA" parm="vernacularBookAbbreviation">1MA</scriptureBook>
+  <scriptureBook ubsAbbreviation="2MA" parm="vernacularBookAbbreviation">2MA</scriptureBook>
+  <scriptureBook ubsAbbreviation="1ES" parm="vernacularBookAbbreviation">1ES</scriptureBook>
+  <scriptureBook ubsAbbreviation="MAN" parm="vernacularBookAbbreviation">MAN</scriptureBook>
+  <scriptureBook ubsAbbreviation="3MA" parm="vernacularBookAbbreviation">3MA</scriptureBook>
+  <scriptureBook ubsAbbreviation="4MA" parm="vernacularBookAbbreviation">4MA</scriptureBook>
+  <dcMeta xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dc.xsd" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:creator>Sir Lancelot Charles Lee Brenton</dc:creator>
+    <dc:contributor>Michael Paul Johnson</dc:contributor>
+    <dc:title>LXX2012: Septuagint in American English 2012</dc:title>
+    <dc:description>The Septuagint with Apocrypha, translated from Greek to English by Sir Lancelot C. L. Brenton and published in 1885, with some language updates (American English)</dc:description>
+    <dc:date>2023-02-06</dc:date>
+    <dc:format>digital</dc:format>
+    <dc:language>eng</dc:language>
+    <dc:publisher>eBible.org</dc:publisher>
+    <dc:rights>Public DomainSir Lancelot C. L. Brenton's translation of the Septuagint is in the Public Domain. The spelling and word form updates mady by Michael Paul Johnson are also dedicated to the Public Domain. Note that this is a translation of God's Word and should be treated with that respect, as God Himself cares what you do with it.</dc:rights>
+    <dc:identifier />
+    <dc:type />
+  </dcMeta>
+  <numberSystem>Default</numberSystem>
+  <chapterAndVerseSeparator>:</chapterAndVerseSeparator>
+  <rangeSeparator>-</rangeSeparator>
+  <multiRefSameChapterSeparator>,</multiRefSameChapterSeparator>
+  <multiRefDifferentChapterSeparator>;</multiRefDifferentChapterSeparator>
+  <verseNumberLocation>Begin</verseNumberLocation>
+  <footnoteMarkerStyle>Circulate</footnoteMarkerStyle>
+  <footnoteMarkerResetAt>Book</footnoteMarkerResetAt>
+  <footnoteMarkers>* † ‡ § ** †† ‡‡ §§ *** ††† ‡‡‡ §§§</footnoteMarkers>
+  <BookSourceForMarkerXt>ShortName</BookSourceForMarkerXt>
+  <BookSourceForMarkerR>ShortName</BookSourceForMarkerR>
+  <iso>eng</iso>
+  <isoVariant>American</isoVariant>
+  <langName>English</langName>
+  <textDir>ltr</textDir>
+  <hasNotes>True</hasNotes>
+  <coverTitle>LXX2012: Septuagint in American English 2012</coverTitle>
+</vernacularParms>
